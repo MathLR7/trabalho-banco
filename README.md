@@ -1,5 +1,5 @@
 # trabalho-banco
-> **Status:** ⚠️ Incomplete / Incompleto
+> **Status:** ⚠️ Incomplete / Incompleto  
 This is a project for the Introduction to Programming course at the Federal University of Espírito Santo (UFES).
 *Trabalho para a disciplina de Introdução à Programação da Universidade Federal do Espírito Santo (UFES).*
 
